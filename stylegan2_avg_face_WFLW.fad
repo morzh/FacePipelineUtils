@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FaceDataset xmlns="https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool" numberOfFeatures="98">
+    <LandmarksGroups/>
+    <File Write="1" Extension="lms98"/>
+    <Samples>
+        <Sample fileName="stylegan2_avg_face_WFLW/stylegan2_avgface.png">
+            <Features>
+                <Feature x="222.22" radius="4" y="484.86" id="0">
+                    <Connections/>
+                </Feature>
+                <Feature x="218" radius="4" y="524" id="1">
+                    <Connections/>
+                </Feature>
+                <Feature x="221" radius="4" y="561" id="2">
+                    <Connections/>
+                </Feature>
+                <Feature x="226" radius="4" y="599" id="3">
+                    <Connections/>
+                </Feature>
+                <Feature x="230.48" radius="4" y="637" id="4">
+                    <Connections/>
+                </Feature>
+                <Feature x="235.99" radius="4" y="674.84" id="5">
+                    <Connections/>
+                </Feature>
+                <Feature x="244" radius="4" y="712" id="6">
+                    <Connections/>
+                </Feature>
+                <Feature x="253.16" radius="4" y="749.34" id="7">
+                    <Connections/>
+                </Feature>
+                <Feature x="268" radius="4" y="785" id="8">
+                    <Connections/>
+                </Feature>
+                <Feature x="288" radius="4" y="817" id="9">
+                    <Connections/>
+                </Feature>
+                <Feature x="312" radius="4" y="847" id="10">
+                    <Connections/>
+                </Feature>
+                <Feature x="339" radius="4" y="873" id="11">
+                    <Connections/>
+                </Feature>
+                <Feature x="368" radius="4" y="897" id="12">
+                    <Connections/>
+                </Feature>
+                <Feature x="398" radius="4" y="920" id="13">
+                    <Connections/>
+                </Feature>
+                <Feature x="432" radius="4" y="940" id="14">
+                    <Connections/>
+                </Feature>
+                <Feature x="468" radius="4" y="950" id="15">
+                    <Connections/>
+                </Feature>
+                <Feature x="506" radius="4" y="954" id="16">
+                    <Connections/>
+                </Feature>
+                <Feature x="545" radius="4" y="952" id="17">
+                    <Connections/>
+                </Feature>
+                <Feature x="581" radius="4" y="943" id="18">
+                    <Connections/>
+                </Feature>
+                <Feature x="616" radius="4" y="925" id="19">
+                    <Connections/>
+                </Feature>
+                <Feature x="646" radius="4" y="902" id="20">
+                    <Connections/>
+                </Feature>
+                <Feature x="675" radius="4" y="877" id="21">
+                    <Connections/>
+                </Feature>
+                <Feature x="702" radius="4" y="850" id="22">
+                    <Connections/>
+                </Feature>
+                <Feature x="726" radius="4" y="821" id="23">
+                    <Connections/>
+                </Feature>
+                <Feature x="745" radius="4" y="788" id="24">
+                    <Connections/>
+                </Feature>
+                <Feature x="761.68" radius="4" y="754.18" id="25">
+                    <Connections/>
+                </Feature>
+                <Feature x="772.36" radius="4" y="716.68" id="26">
+                    <Connections/>
+                </Feature>
+                <Feature x="779.21" radius="4" y="679.34" id="27">
+                    <Connections/>
+                </Feature>
+                <Feature x="784.04" radius="4" y="640.34" id="28">
+                    <Connections/>
+                </Feature>
+                <Feature x="787.87" radius="4" y="601.17" id="29">
+                    <Connections/>
+                </Feature>
+                <Feature x="789" radius="4" y="564" id="30">
+                    <Connections/>
+                </Feature>
+                <Feature x="792" radius="4" y="526" id="31">
+                    <Connections/>
+                </Feature>
+                <Feature x="791" radius="4" y="488" id="32">
+                    <Connections/>
+                </Feature>
+                <Feature x="271.6" radius="2" y="444.18" id="33">
+                    <Connections/>
+                </Feature>
+                <Feature x="300.41" radius="2" y="416.57" id="34">
+                    <Connections/>
+                </Feature>
+                <Feature x="355.21" radius="2" y="400.26" id="35">
+                    <Connections/>
+                </Feature>
+                <Feature x="410.26" radius="2" y="407.26" id="36">
+                    <Connections/>
+                </Feature>
+                <Feature x="458.57" radius="2" y="424.95" id="37">
+                    <Connections/>
+                </Feature>
+                <Feature x="450.97" radius="2" y="445.87" id="38">
+                    <Connections/>
+                </Feature>
+                <Feature x="403.18" radius="2" y="431.13" id="39">
+                    <Connections/>
+                </Feature>
+                <Feature x="352.92" radius="2" y="423.86" id="40">
+                    <Connections/>
+                </Feature>
+                <Feature x="308.87" radius="2" y="430.01" id="41">
+                    <Connections/>
+                </Feature>
+                <Feature x="573.59" radius="2" y="428.16" id="42">
+                    <Connections/>
+                </Feature>
+                <Feature x="616.88" radius="2" y="406.37" id="43">
+                    <Connections/>
+                </Feature>
+                <Feature x="666.33" radius="2" y="398.87" id="44">
+                    <Connections/>
+                </Feature>
+                <Feature x="716.6" radius="2" y="409.15" id="45">
+                    <Connections/>
+                </Feature>
+                <Feature x="743" radius="2" y="439" id="46">
+                    <Connections/>
+                </Feature>
+                <Feature x="709.52" radius="2" y="425.74" id="47">
+                    <Connections/>
+                </Feature>
+                <Feature x="666.92" radius="2" y="424.24" id="48">
+                    <Connections/>
+                </Feature>
+                <Feature x="622.26" radius="2" y="431.88" id="49">
+                    <Connections/>
+                </Feature>
+                <Feature x="581.45" radius="2" y="443.44" id="50">
+                    <Connections/>
+                </Feature>
+                <Feature x="337.34" radius="2" y="488.24" id="51">
+                    <Connections/>
+                </Feature>
+                <Feature x="355.24" radius="2" y="471.57" id="52">
+                    <Connections/>
+                </Feature>
+                <Feature x="381.08" radius="2" y="466.36" id="53">
+                    <Connections/>
+                </Feature>
+                <Feature x="410.57" radius="2" y="474.31" id="54">
+                    <Connections/>
+                </Feature>
+                <Feature x="442.34" radius="2" y="496.16" id="55">
+                    <Connections/>
+                </Feature>
+                <Feature x="406.41" radius="2" y="497.1" id="56">
+                    <Connections/>
+                </Feature>
+                <Feature x="381.22" radius="2" y="499.67" id="57">
+                    <Connections/>
+                </Feature>
+                <Feature x="357.39" radius="2" y="496.67" id="58">
+                    <Connections/>
+                </Feature>
+                <Feature x="581.11" radius="2" y="495.53" id="59">
+                    <Connections/>
+                </Feature>
+                <Feature x="605.59" radius="2" y="478.51" id="60">
+                    <Connections/>
+                </Feature>
+                <Feature x="639.59" radius="2" y="465.31" id="61">
+                    <Connections/>
+                </Feature>
+                <Feature x="666.74" radius="2" y="470.26" id="62">
+                    <Connections/>
+                </Feature>
+                <Feature x="681.07" radius="2" y="485.31" id="63">
+                    <Connections/>
+                </Feature>
+                <Feature x="664.9" radius="2" y="495.05" id="64">
+                    <Connections/>
+                </Feature>
+                <Feature x="641.28" radius="2" y="499.1" id="65">
+                    <Connections/>
+                </Feature>
+                <Feature x="610.28" radius="2" y="495.16" id="66">
+                    <Connections/>
+                </Feature>
+                <Feature x="511" radius="2" y="467" id="67">
+                    <Connections/>
+                </Feature>
+                <Feature x="512" radius="2" y="528" id="68">
+                    <Connections/>
+                </Feature>
+                <Feature x="512" radius="2" y="586" id="69">
+                    <Connections/>
+                </Feature>
+                <Feature x="512" radius="2" y="643" id="70">
+                    <Connections/>
+                </Feature>
+                <Feature x="450.9" radius="2" y="667.69" id="71">
+                    <Connections/>
+                </Feature>
+                <Feature x="474.38" radius="2" y="678.8" id="72">
+                    <Connections/>
+                </Feature>
+                <Feature x="510.31" radius="2" y="687.79" id="73">
+                    <Connections/>
+                </Feature>
+                <Feature x="544.08" radius="2" y="680.26" id="74">
+                    <Connections/>
+                </Feature>
+                <Feature x="574.44" radius="2" y="668.74" id="75">
+                    <Connections/>
+                </Feature>
+                <Feature x="385.15" radius="2" y="742.36" id="76">
+                    <Connections/>
+                </Feature>
+                <Feature x="429" radius="2" y="730" id="77">
+                    <Connections/>
+                </Feature>
+                <Feature x="474" radius="2" y="726" id="78">
+                    <Connections/>
+                </Feature>
+                <Feature x="507" radius="2" y="733" id="79">
+                    <Connections/>
+                </Feature>
+                <Feature x="541" radius="2" y="726" id="80">
+                    <Connections/>
+                </Feature>
+                <Feature x="587" radius="2" y="731" id="81">
+                    <Connections/>
+                </Feature>
+                <Feature x="632.79" radius="2" y="745.15" id="82">
+                    <Connections/>
+                </Feature>
+                <Feature x="590" radius="2" y="796" id="83">
+                    <Connections/>
+                </Feature>
+                <Feature x="546" radius="2" y="820" id="84">
+                    <Connections/>
+                </Feature>
+                <Feature x="509" radius="2" y="823" id="85">
+                    <Connections/>
+                </Feature>
+                <Feature x="472" radius="2" y="818" id="86">
+                    <Connections/>
+                </Feature>
+                <Feature x="425" radius="2" y="795" id="87">
+                    <Connections/>
+                </Feature>
+                <Feature x="400.26" radius="2" y="746.05" id="88">
+                    <Connections/>
+                </Feature>
+                <Feature x="475" radius="2" y="746" id="89">
+                    <Connections/>
+                </Feature>
+                <Feature x="511" radius="2" y="750" id="90">
+                    <Connections/>
+                </Feature>
+                <Feature x="544" radius="2" y="746" id="91">
+                    <Connections/>
+                </Feature>
+                <Feature x="618.19" radius="2" y="749.41" id="92">
+                    <Connections/>
+                </Feature>
+                <Feature x="544" radius="2" y="782" id="93">
+                    <Connections/>
+                </Feature>
+                <Feature x="509" radius="2" y="786" id="94">
+                    <Connections/>
+                </Feature>
+                <Feature x="472" radius="2" y="781" id="95">
+                    <Connections/>
+                </Feature>
+                <Feature x="379.97" radius="2" y="479.32" id="96">
+                    <Connections/>
+                </Feature>
+                <Feature x="639.91" radius="2" y="479.27" id="97">
+                    <Connections/>
+                </Feature>
+            </Features>
+        </Sample>
+    </Samples>
+</FaceDataset>
